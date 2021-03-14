@@ -17,5 +17,5 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 github_username: AlbertLeec
 
 # Build settings
-markdown: AlbertLeec
+markdown: kramdown
 
