@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+# Site settings
+name: AlbertLeec
+email: 740123621@qq.com
+author: AlbertLeec
+github: https://github.com/AlberLeec
+baseurl: 
+meta_description: Just do it!
+motto: Walk the talk.
+banner: 知行合一。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: AlbertLeec
+
+# Build settings
+markdown: AlbertLeec
+
